@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Khandoker Foysal Ahamed
 #### Creative & Engaging:  "Crafting web experiences with Django magic ✨ Python | HTML | CSS" "Turning ideas into web applications, one Django project at a time" "Code, Coffee, and Django | Full-Stack Web Developer"
-![Creative & Engaging:  "Crafting web experiences with Django magic ✨ Python | HTML | CSS" "Turning ideas into web applications, one Django project at a time" "Code, Coffee, and Django | Full-Stack Web Developer"](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Creative & Engaging:  "Crafting web experiences with Django magic ✨ Python | HTML | CSS" "Turning ideas into web applications, one Django project at a time" "Code, Coffee, and Django | Full-Stack Web Developer"]
 
 Full-Stack Python Developer passionate about building clean, scalable web applications using Django.
 
