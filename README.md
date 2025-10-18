@@ -6,7 +6,7 @@ Full-Stack Python Developer passionate about building clean, scalable web applic
 Skills: 💼 
 **What I Do:
 
-** - Develop robust backend systems with Python & Django - Create responsive, user-friendly interfaces with HTML & CSS - Write clean, maintainable code following best practices - Build RESTful APIs and integrate third-party services  🔧 
+** - Develop robust backend systems with Python & Django - Create responsive, user-friendly interfaces with HTML & CSS - Write clean, maintainable code following best practices - Build RESTful APIs and integrate third-party services  🔧 linkein=https://www.linkedin.com/in/khandoker-foysal-ahamed-a497452b6/
 **Tech Stack:
 
 ** - **Backend:** Python, Django, Django REST Framework - **Frontend:** HTML5, CSS3, JavaScript - **Database:** PostgreSQL, MySQL, SQLite - **Tools:** Git, GitHub, VS Code  🌱 **Currently:
